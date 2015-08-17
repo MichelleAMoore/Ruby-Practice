@@ -1,0 +1,21 @@
+def draw
+
+end
+
+def hand(player)
+
+end
+
+player1 = 0
+player2 = 0
+
+while true
+
+	player1_hand = hand("Player1")
+	player2_hand = hand("Player2")
+
+	puts "\nPlayer 1's hand#{player1_hand}"
+	puts "Player 2's hand #{player2_hand}"
+
+	if players
+end
